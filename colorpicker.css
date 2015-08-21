@@ -1,0 +1,37 @@
+body{
+    background-color:#CCCCCC;
+    margin: 0%;
+    }
+
+.content{
+    padding-top: 3%;
+    font-family: 'Itim', cursive;
+    position:absolute;
+    top: 50px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    overflow-y:scroll;      
+    }
+
+.primary-nav {
+    position: fixed;
+    width: 100%;
+    z-index: 10000;
+    font-family: 'Pacifico', cursive;
+    background-color: #2f2e2e;
+    color: #ffffff;
+    align-items: center top;
+    font-size: 3em;
+    }
+
+input {
+    border: none;
+    background-color: #CCCCCC ;
+    font-size: 1.2em;
+    }
+
+.output {
+    background-color: #2a2a2a;
+    color: #fff;
+    }
